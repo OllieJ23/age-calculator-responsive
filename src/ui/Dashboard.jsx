@@ -9,7 +9,7 @@ const MainDashBoard = styled.div`
     background-color: var(--white);
     margin: auto;
     max-width: 45%;
-    height: 50rem;
+    height: 55rem;
     padding: 1rem;
     margin-top: 10rem;
     border-radius: 20px 20px 180px 20px;
